@@ -19,4 +19,4 @@ The dataset used in this project is included in the `data/` folder.
 
 ## Documentation
 - Refer to the [Requirements.txt](Requirements.txt) for project requirements.
-- See [Visualizations.txt](documentation/Visualizations.txt) for details on charts and filters.
+- See [Visualizations.txt](Visualizations.txt) for details on charts and filters.
