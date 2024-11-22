@@ -18,5 +18,5 @@ This repository contains a Power BI project to analyze sales performance for Adv
 The dataset used in this project is included in the `data/` folder.
 
 ## Documentation
-- Refer to the [Requirements.md](documentation/Requirements.md) for project requirements.
-- See [Visualizations.md](documentation/Visualizations.md) for details on charts and filters.
+- Refer to the [Requirements.txt](documentation/Requirements.txt) for project requirements.
+- See [Visualizations.txt](documentation/Visualizations.txt) for details on charts and filters.
