@@ -1,0 +1,19 @@
+# User Guide
+
+## Opening the Dashboard
+1. Download the repository.
+2. Open `AdventureWorks_Sales_Dashboard.pbix` in Power BI Desktop.
+
+## Interacting with Visualizations
+- Use the **Slicers**:
+  - Filter by Product Category or Payment Method.
+- View the **Stacked Column Chart**:
+  - Analyze Order Totals by Product Size and Category.
+- Explore the **Donut Chart**:
+  - See the percentage share of Order Totals for each Product Category.
+- Review the **Table**:
+  - Identify order totals for individual products.
+
+## Updating the Dataset
+1. Replace `Adventure_Works_sales_dataset.csv` in the `data/` folder.
+2. Refresh the Power BI report.

@@ -1,0 +1,20 @@
+# Design Details
+
+## Slicers
+1. **Product Category**: Enables filtering by product categories.
+2. **Payment Method**: Filters based on payment methods.
+
+## Charts
+1. **Stacked Column Chart**:
+   - **Y-Axis**: Order Total
+   - **X-Axis**: Product Size
+   - **Legend**: Product Category
+   - **Title**: Order Total by Product Size and Product Category for 2023
+
+2. **Donut Chart**:
+   - **Values**: Order Total Share
+   - **Legend**: Product Category
+   - **Title**: Order Total Share by Product Category for 2023
+
+3. **Table**:
+   - Columns: Product Name, Order Total

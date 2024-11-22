@@ -1,0 +1,21 @@
+# Project Requirements
+
+## Objective
+To create an interactive dashboard for Adventure Works that:
+1. Analyzes sales performance.
+2. Identifies growth opportunities.
+3. Streamlines operations.
+
+## Functional Requirements
+- Use Power BI to visualize data from `Adventure_Works_sales_dataset.csv`.
+- Provide interactive slicers for filtering:
+  - Product Category
+  - Payment Method
+- Include the following visualizations:
+  - Stacked Column Chart
+  - Donut Chart
+  - Data Table
+
+## Technical Requirements
+- Data Format: CSV
+- Tools: Microsoft Power BI Desktop

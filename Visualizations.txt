@@ -1,0 +1,24 @@
+# Visualizations Guide
+
+## Slicers
+- Added from the **Slicer** option.
+- Dragged `Product Category` and `Payment Method` fields to the slicer.
+
+## Stacked Column Chart
+- From the **Visualizations** pane, selected the Stacked Column Chart.
+- Added:
+  - `Order Total` → Y-Axis
+  - `Product Size` → X-Axis
+  - `Product Category` → Legend
+- Set title to: `Order Total by Product Size and Product Category for 2023`.
+
+## Donut Chart
+- Added Donut Chart visual and configured:
+  - `Order Total Share` → Values
+  - `Product Category` → Legend
+- Set title to: `Order Total Share by Product Category for 2023`.
+
+## Table
+- Added a Table visual and included:
+  - `Product Name`
+  - `Order Total`
