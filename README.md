@@ -15,7 +15,7 @@ This repository contains a Power BI project to analyze sales performance for Adv
 3. Review the visualizations and interact with the filters.
 
 ## Dataset
-The dataset used in this project is included in the `data/` folder.
+The dataset used in this project is contained in the Adventure_Works_sales_dataset.csv file. The report is saved as AdventureWorks_Sales_Dashboard.pbix.
 
 ## Documentation
 - Refer to the [Requirements.txt](Requirements.txt) for project requirements.
